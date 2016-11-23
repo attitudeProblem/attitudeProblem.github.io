@@ -1,0 +1,51 @@
+        
+h1 {
+	text-align: center;
+}
+			  
+
+#bg {
+	position: fixed; 
+	top: 0; 
+	left: 0; 
+				
+	/* Preserve aspet ratio */
+	min-width: 100%;
+	min-height: 100%;
+}
+
+/*--------------------------- Meny*/
+ul{
+	list-style-type: none;
+	margin: 0;
+	padding: 0;
+	width: 100%
+}
+			
+a:link, a:visited {
+	display: block;
+	width: 94%;
+	background-color: black;
+	color: green;
+	margin-left: 3%;
+	text-decoration: none;
+	text-align: center;
+	font-weight: bold;
+	text-transform: uppercase;
+	height: 3%;
+}
+			
+a:hover, a:active {
+	background-color: white;
+}
+			
+li {
+	float: left;
+	width: 25%;
+}
+/*--------------------------------*/
+
+
+
+
+ 

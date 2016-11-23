@@ -1,0 +1,66 @@
+<style>
+	body {
+		background-color:purple;
+	}
+    
+    .Main_box {
+      background-color:purple; 
+      height: 1000%;
+      width: 100%;
+	  float:left;
+
+    }
+        
+    h1 {
+        text-align: center;
+    }
+      
+   .text {
+       height:100px;
+       width:70%;
+       border:1px solid #ccc;
+       font:16px/26px Georgia, Garamond, Serif;
+       overflow:auto;
+       float: left;  
+    }
+    .text {
+        background-color:black;
+        color: green;
+        width: 70%;
+        padding: 5px;
+        height: 390px;
+        margin: 5px;
+        float: left;
+        overflow: auto;
+    }
+    
+    .ad {  
+        width: 15%;
+        height: 100%;
+        float: right;
+    }
+    .netscp {  
+        width: 15%;
+        height: 100%;
+        float: left;
+    }
+	.hakker {  
+		height:5px;
+		width:700px;
+		margin: 0 auto;
+    }
+
+
+	#bg {
+	  position: fixed; 
+	  top: 0; 
+	  left: 0; 
+		
+	  /* Preserve aspet ratio */
+	  min-width: 100%;
+	  min-height: 100%;
+	}
+	
+	
+	</style>
+ 
